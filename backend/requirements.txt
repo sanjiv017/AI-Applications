@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-multipart
+python-dotenv
+requests
+docx
+python-docx
+pdfplumber
+pydantic
+groq
